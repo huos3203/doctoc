@@ -2,8 +2,6 @@
 
 [![NPM](https://nodei.co/npm/doctoc.png?downloads=true&stars=true)](https://nodei.co/npm/doctoc/)
 
-Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated
-by github or other sites via a command line flag.
 在本地的Git仓库中对Markdown文件生成目录内容。目录链接跳转支持在github中锚点方式和在其他网站通过命令行标记方式跳转。
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

@@ -9,7 +9,8 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [安装](#installation)
-- [使用说明](#usage) 
+- [使用说明](#usage)  
+
   - [为目录及子目录中的所有文件添加TOC](#adding-toc-to-all-files-in-a-directory-and-sub-directories)
   - [轻松更新现有的目录结构](#update-existing-doctoc-tocs-effortlessly)
   - [为单个文件添加TOC](#adding-toc-to-individual-files)

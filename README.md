@@ -10,16 +10,16 @@
 
 - [安装](#installation)
 - [使用说明](#usage)
-  - [为目录及子目录中的所有文件添加TOC](#adding-toc-to-all-files-in-a-directory-and-sub-directories)
-  - [轻松更新现有的目录结构](#update-existing-doctoc-tocs-effortlessly)
-  - [为单个文件添加TOC](#adding-toc-to-individual-files)
-    - [Examples](#examples)
-  - [使用doctoc生成兼容其他站点的链接](#using-doctoc-to-generate-links-compatible-with-other-sites)
-    - [Example](#example)
-  - [指定toc的位置](#specifying-location-of-toc)
-  - [指定自定义toc的title](#specifying-a-custom-toc-title)
-  - [为toc指定一个最大级别的标题](#specifying-a-maximum-heading-level-for-toc-entries)
-  - [打印标准化](#printing-to-stdout)
+  - [为目录及子目录中的所有文件添加TOC](#adding-toc-to-all-files-in-a-directory-and-sub-directories)   
+  - [轻松更新现有的目录结构](#update-existing-doctoc-tocs-effortlessly)   
+  - [为单个文件添加TOC](#adding-toc-to-individual-files)   
+    - [Examples](#examples)   
+  - [使用doctoc生成兼容其他站点的链接](#using-doctoc-to-generate-links-compatible-with-other-sites)   
+    - [Example](#example)   
+  - [指定toc的位置](#specifying-location-of-toc)   
+  - [指定自定义toc的title](#specifying-a-custom-toc-title)   
+  - [为toc指定一个最大级别的标题](#specifying-a-maximum-heading-level-for-toc-entries)   
+  - [打印标准化](#printing-to-stdout)   
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -4,23 +4,24 @@
 
 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated
 by github or other sites via a command line flag.
+在本地的Git仓库中对Markdown文件生成目录内容。目录链接跳转支持在github中锚点方式和在其他网站通过命令行标记方式跳转。
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Adding toc to all files in a directory and sub directories](#adding-toc-to-all-files-in-a-directory-and-sub-directories)
-  - [Update existing doctoc TOCs effortlessly](#update-existing-doctoc-tocs-effortlessly)
-  - [Adding toc to individual files](#adding-toc-to-individual-files)
+- [安装](#installation)
+- [使用说明](#usage) 
+  - [为目录及子目录中的所有文件添加TOC](#adding-toc-to-all-files-in-a-directory-and-sub-directories)
+  - [轻松更新现有的目录结构](#update-existing-doctoc-tocs-effortlessly)
+  - [为单个文件添加TOC](#adding-toc-to-individual-files)
     - [Examples](#examples)
-  - [Using doctoc to generate links compatible with other sites](#using-doctoc-to-generate-links-compatible-with-other-sites)
+  - [使用doctoc生成兼容其他站点的链接](#using-doctoc-to-generate-links-compatible-with-other-sites)
     - [Example](#example)
-  - [Specifying location of toc](#specifying-location-of-toc)
-  - [Specifying a custom TOC title](#specifying-a-custom-toc-title)
-  - [Specifying a maximum heading level for TOC entries](#specifying-a-maximum-heading-level-for-toc-entries)
-  - [Printing to stdout](#printing-to-stdout)
+  - [指定toc的位置](#specifying-location-of-toc)
+  - [指定自定义toc的title](#specifying-a-custom-toc-title)
+  - [为toc指定一个最大级别的标题](#specifying-a-maximum-heading-level-for-toc-entries)
+  - [打印标准化](#printing-to-stdout)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
